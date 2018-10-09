@@ -1,10 +1,9 @@
 ﻿body {
-    background: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Blurry-Backgrounds-For-Desktop-PIC-WPC008961.jpg") center fixed grey;
+    background: url("Images/main.jpg") center fixed grey;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-/* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 15px;
     padding-right: 15px;
@@ -15,13 +14,13 @@
     left: 10%;
     text-align: center;
     right: 10%;
-    bottom: 50%;
+    bottom: 47.5%;
 }
 
 .container {
     width: auto !important;
 }
-/* Set width on the form input elements since they're 100% wide by default */
+
 input,
 select,
 textarea {
